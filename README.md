@@ -5,6 +5,11 @@
 
 This project simulates two-dimensional thermal fluid flow around a cylindrical obstacle using the Lattice Boltzmann Method (LBM). The simulation models how an inlet flow interacts with a circular cylinder, allowing visualization of velocity fields, flow separation, and wake formation. Adjustable parameters let users explore the effects of changing inlet velocity and fluid viscosity.
 
+After a while:
+
+<img width="850" height="404" alt="image" src="https://github.com/user-attachments/assets/e3c633c0-53a4-4574-858f-13128dce6a89" />
+
+
 ## Features
 
 - **2D Lattice Boltzmann simulation** of incompressible flow past a cylinder.
