@@ -47,9 +47,9 @@ After a while:
 
 2. **Install dependencies:**
    ```bash
-   pip install numpy matplotlib
+   pip install numpy matplotlib numba
    ```
-   (Optional for performance: `pip install numba`)
+   Note: numba is optional
 
 3. **Run the simulation:**
    ```bash
@@ -65,4 +65,4 @@ After a while:
 - Python 3.x
 - NumPy
 - Matplotlib
-- (Optional) Numba (for performance improvement)
+- Numba (optional for performance improvement)
